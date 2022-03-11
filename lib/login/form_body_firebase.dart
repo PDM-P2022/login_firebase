@@ -1,4 +1,4 @@
-import 'package:app_firebase/home_page.dart';
+import 'package:app_firebase/home/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutterfire_ui/auth.dart';
 
